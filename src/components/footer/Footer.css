@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Heebo:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Varela+Round&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.footer_div1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 17%;
+  padding-right: 8%;
+  margin-top: 80px;
+}
+
+.footer_logo_img {
+  width: 160px;
+  height: 97px;
+  background-image: url(../../../public/images/логотип.svg);
+  background-size: cover;
+  background-position: center;
+}
+
+.wats_img {
+  width: 25.18px;
+  height: 25.18px;
+  top: 0.91px;
+  left: 0.91px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.wats_p {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18.9px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #213f74;
+}
+
+.wats {
+  width: 217px;
+  height: 60px;
+  padding: 20px;
+  border-radius: 50px;
+  border: 1px;
+  display: flex;
+  align-items: center;
+  background-color: #e5e9ec;
+  cursor: pointer;
+  margin-top: 57px;
+}
+
+.footer_p1{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+line-height: 24.3px;
+letter-spacing: 0.04em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #4D526C80;
+    margin-bottom: 15px;
+    opacity: 0.5;
+}
+
+
+.footer_catalog{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.footer_link{
+    font-family: Inter;
+font-size: 15px;
+font-weight: 400;
+line-height: 20.25px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+    color: #00072DCC;
+    opacity: 0.9;
+}
+
+.footer_link:hover{
+    color: #033792;
+}
+
+.footer_info{
+    width: 415px;
+}
+
+.footer_p2{
+    width: 333px;
+height: 48px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 24.3px;
+letter-spacing: -0.02em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #122952;
+}
+
+.footer_inp{
+    width: 252px;
+height: 60px;
+padding: 20px 2px 20px 20px;
+gap: 0px;
+border-radius: 46px;
+border: 0;
+background-color: #F3F5F7;
+}
+
+.footer_inp:focus {
+    border: 0.05em solid #000; 
+    opacity: 0.3;
+    background-color: #E5E9EC;
+}
+
+.footer_btn{
+    width: 163px;
+height: 60px;
+padding: 20px 30px 20px 30px;
+display: flex;
+align-items: center;
+border-radius: 50px;
+background-color: #213F74;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 20.3px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+border: 0;
+cursor: pointer;
+margin-left: -60px;
+z-index: 2;
+}
+
+.rt2{
+    width: 3px;
+height: 6px;
+
+}
+
+.footer_form{
+    margin-top: 20px;
+    display: flex;
+}
+
+.footer_p3{
+    font-family: Inter;
+font-size: 29px;
+font-weight: 600;
+line-height: 39.15px;
+letter-spacing: -0.04em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #213F74;
+margin-top: 20px;
+}
+
+.footer_p4{
+    font-family: Inter;
+font-size: 15px;
+font-weight: 400;
+line-height: 20.25px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+opacity: 0.8;
+color: #213F74CC;
+margin-top: 7px;
+display: flex;
+align-items: center;
+}
+
+.footer_icon{
+    width: 9.75px;
+height: 11.85px;
+
+}
+
+.footer_div2{
+    width: 100%;
+    height: 40px;
+    padding-left: 17%;
+    background-color: #F3F5F7;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.footer_link2{
+    font-family: Inter;
+font-size: 15px;
+font-weight: 400;
+line-height: 20.25px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #7F8295;
+
+}
+
+.we{
+    margin-left: 162px;
+}

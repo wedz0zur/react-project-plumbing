@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Heebo:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Varela+Round&display=swap');
+
+
+.Dots{
+    position: relative;
+    top: 70%;
+    left: 1800px;
+}
+
+
+
+.slide_p{
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    width: 148px;
+height: 22px;
+position: relative;
+right: -750px;
+
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.6px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #8a7f74;
+
+
+}
+
+.react-Slidy-arrow {
+    display: none !important;
+  }
+  
+
+.slide_p svg {
+    margin-left: 8px; 
+  }
+
+.rt{
+    position: relative;
+    top: 67%;
+    left: -600px;
+    gap: 20px;
+}
+
+.slide_p2{
+
+font-family: Inter;
+font-size: 56px;
+font-weight: 500;
+line-height: 58.8px;
+letter-spacing: -0.05em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+position: relative;
+right: -700px;
+margin-bottom: 20px;
+}
+
+.slide_p3{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24.8px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+position: relative;
+right: -700px;
+}

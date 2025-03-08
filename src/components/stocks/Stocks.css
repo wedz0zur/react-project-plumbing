@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Heebo:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Varela+Round&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.section2 {
+  width: 100%;
+  margin-top: 80px;
+}
+
+.stocks {
+  width: 80%;
+  height: 680px;
+  border-radius: 10px;
+  padding: 66px 80px 70px 80px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+.stocks_text {
+  display: flex;
+  justify-content: space-between;
+}
+
+.stoks_btn {
+  width: 147px;
+  height: 60px;
+  padding: 20px 30px 20px 30px;
+  border-radius: 50px;
+  display: flex;
+  border: 0;
+  align-items: center;
+  background-color: #213f74;
+  color: #fff;
+  cursor: pointer;
+}
+
+.stocks_text_p {
+  width: 399px;
+  height: 48px;
+  font-family: Inter;
+  font-size: 46px;
+  font-weight: 500;
+  line-height: 48.3px;
+  letter-spacing: -0.04em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #122952;
+}
+
+.stocks_div {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.stocks_div1 {
+  width: 416px;
+}
+
+.stocks_div1_img1 {
+  width: 416px;
+  height: 240px;
+  border-radius: 10px;
+  background-image: url(../../../public/images/stocks3.svg);
+  background-size: cover;
+  background-position: center;
+}
+
+.stocks_div1_img2 {
+  width: 416px;
+  height: 240px;
+  border-radius: 10px;
+  background-image: url(../../../public/images/stocks2.svg);
+  background-size: cover;
+  background-position: center;
+}
+
+.stocks_div1_img3 {
+  width: 416px;
+  height: 240px;
+  border-radius: 10px;
+  background-image: url(../../../public/images/stocks3.svg);
+  background-size: cover;
+  background-position: center;
+}
+
+.stocks_p1 {
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21.7px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #7f8295;
+  margin-top: 15px;
+}
+
+.stocks_p2 {
+  top: 32px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24.3px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #122952;
+  margin-top: 19px;
+}
+
+.stocks_p3 {
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21.7px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #4d526c;
+  margin-top: 15px;
+}
+
+.stocks_link {
+  display: flex;
+  align-items: center;
+  width: 91px;
+  height: 22px;
+  top: 130px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21.6px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #213f74;
+  margin-top: 15px;
+}
