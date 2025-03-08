@@ -42,9 +42,9 @@ npm start
 
 Проект будет доступен по адресу http://localhost:3000
 
+![main](https://github.com/user-attachments/assets/1e724d50-6e29-4767-9112-69ffe113b23a)
+![catalog](https://github.com/user-attachments/assets/c2ff14b5-1678-49b6-a0fa-661736bfd0e8)
 
-![q](https://github.com/user-attachments/assets/63477dee-d224-4b42-bf35-d6905cbbe5cc)
 
-![q](https://github.com/user-attachments/assets/2123655c-063c-4941-a406-2197a17c6e0e)
 
 
