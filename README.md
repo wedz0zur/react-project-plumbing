@@ -33,6 +33,7 @@ npm install
 npm start
 
 ![main](https://github.com/user-attachments/assets/1e724d50-6e29-4767-9112-69ffe113b23a)
+
 ![catalog](https://github.com/user-attachments/assets/c2ff14b5-1678-49b6-a0fa-661736bfd0e8)
 
 
