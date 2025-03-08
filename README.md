@@ -24,23 +24,13 @@
 **API** — для получения данных о товарах.
 
 
-
-
 Установка
-
-Клонируйте репозиторий:
 
 git clone https://github.com/wedz0zur/react-project-plumbing.git
 
-Установите зависимости:
-
 npm install
 
-Запустите проект:
-
 npm start
-
-Проект будет доступен по адресу http://localhost:3000
 
 ![main](https://github.com/user-attachments/assets/1e724d50-6e29-4767-9112-69ffe113b23a)
 ![catalog](https://github.com/user-attachments/assets/c2ff14b5-1678-49b6-a0fa-661736bfd0e8)
